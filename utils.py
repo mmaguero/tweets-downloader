@@ -28,7 +28,7 @@ def datetime_filename(prefix='output_',extension='.txt'):
 
 def get_track_words(words_per_track,hour_count,lst):
   """
-  read a list with words in gn
+  read a list with words in ...
   """
   i = hour_count * words_per_track 
   j = i + words_per_track - 1  
