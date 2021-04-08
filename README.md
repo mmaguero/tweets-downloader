@@ -3,13 +3,11 @@ Download tweets by API or SNScrape
 
 Install:
 
-`
+```
 python3 -m venv myVenv
-
 source myVenv/bin/activate
-
 pip install -r requirements.txt
-`
+```
 
 Use:
 
