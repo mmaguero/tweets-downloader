@@ -35,8 +35,8 @@ api = Api(cred['CONSUMER_KEY'], cred['CONSUMER_SECRET'],
           cred['ACCESS_TOKEN'], cred['ACCESS_TOKEN_SECRET'],
           tweet_mode='extended')
 
-track_lst_2 = ["#YoEstoyParaElMarzo2021","#ANRNuncaMás"] # track api history:
-track_lst_3 = ["#YoEstoyParaElMarzo2021","#ANRNuncaMás"] # track sns history: 
+track_lst_2 = ["#hashtag","@user", "word"] # track api history:
+track_lst_3 = ["#hashtag","@user", "word"] # track sns history: 
 
 
 @with_goto
