@@ -5,7 +5,9 @@ Install:
 
 `
 python3 -m venv myVenv
+
 source myVenv/bin/activate
+
 pip install -r requirements.txt
 `
 
